@@ -5,4 +5,4 @@
 
 No terminal, no devido diretório, use "./calculadora.sh"
 
-O mesmo vale para o arquivo em python, com uma ligeira diferença. Para ele, use "python3 calculadora\ python.py".
+O mesmo vale para o arquivo em python, com uma ligeira diferença. Para ele, use "python3 primeiro_projeto\ python.py".
